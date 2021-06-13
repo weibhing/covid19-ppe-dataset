@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>ppe-kit-for-covid-90-gsm-500x500.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\ppe-kit-for-covid-90-gsm-500x500.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>13</ymin>
+			<xmax>261</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>43</ymin>
+			<xmax>203</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

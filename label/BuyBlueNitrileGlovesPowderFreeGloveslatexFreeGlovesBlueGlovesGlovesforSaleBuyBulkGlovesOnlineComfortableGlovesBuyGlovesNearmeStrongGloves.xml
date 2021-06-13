@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>BuyBlueNitrileGlovesPowderFreeGloveslatexFreeGlovesBlueGlovesGlovesforSaleBuyBulkGlovesOnlineComfortableGlovesBuyGlovesNearmeStrongGloves.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\BuyBlueNitrileGlovesPowderFreeGloveslatexFreeGlovesBlueGlovesGlovesforSaleBuyBulkGlovesOnlineComfortableGlovesBuyGlovesNearmeStrongGloves.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1016</width>
+		<height>801</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>79</ymin>
+			<xmax>889</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>49</ymin>
+			<xmax>620</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

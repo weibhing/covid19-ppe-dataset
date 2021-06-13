@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>wearing-mask-incorrectly-close-up-2735197.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\wearing-mask-incorrectly-close-up-2735197.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>865</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>277</ymin>
+			<xmax>867</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

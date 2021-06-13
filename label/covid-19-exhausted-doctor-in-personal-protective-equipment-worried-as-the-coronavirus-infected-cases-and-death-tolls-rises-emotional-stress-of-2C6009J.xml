@@ -1,0 +1,50 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>covid-19-exhausted-doctor-in-personal-protective-equipment-worried-as-the-coronavirus-infected-cases-and-death-tolls-rises-emotional-stress-of-2C6009J.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\covid-19-exhausted-doctor-in-personal-protective-equipment-worried-as-the-coronavirus-infected-cases-and-death-tolls-rises-emotional-stress-of-2C6009J.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>954</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>197</ymin>
+			<xmax>655</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>443</ymin>
+			<xmax>936</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>451</ymin>
+			<xmax>874</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

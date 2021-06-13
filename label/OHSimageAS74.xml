@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>OHSimageAS74.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\OHSimageAS74.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>43</ymin>
+			<xmax>453</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>74</ymin>
+			<xmax>434</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>csm_Vaccinatie_16x9_f97328cce8.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\csm_Vaccinatie_16x9_f97328cce8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>228</ymin>
+			<xmax>473</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>21</ymin>
+			<xmax>750</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

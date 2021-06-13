@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>PPE-Skin-Concerns-lede.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\PPE-Skin-Concerns-lede.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>462</ymin>
+			<xmax>1396</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>722</xmin>
+			<ymin>508</ymin>
+			<xmax>1403</xmax>
+			<ymax>1241</ymax>
+		</bndbox>
+	</object>
+</annotation>

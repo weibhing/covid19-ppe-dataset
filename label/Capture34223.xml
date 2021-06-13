@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>Capture34223.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\Capture34223.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1231</width>
+		<height>625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>84</ymin>
+			<xmax>1094</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

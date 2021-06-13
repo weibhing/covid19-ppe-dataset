@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>190607-Omni-International-Corp-Wearing-Disposable-Gloves.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\190607-Omni-International-Corp-Wearing-Disposable-Gloves.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1153</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>81</ymin>
+			<xmax>697</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>207</ymin>
+			<xmax>1067</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

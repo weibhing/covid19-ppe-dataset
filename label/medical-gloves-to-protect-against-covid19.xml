@@ -1,0 +1,50 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>medical-gloves-to-protect-against-covid19.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\medical-gloves-to-protect-against-covid19.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1540</width>
+		<height>802</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>514</ymin>
+			<xmax>756</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>441</ymin>
+			<xmax>1212</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>73</ymin>
+			<xmax>678</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

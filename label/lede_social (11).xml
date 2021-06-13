@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>lede_social (11).png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\lede_social (11).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3200</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>62</ymin>
+			<xmax>1589</xmax>
+			<ymax>1737</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1589</xmin>
+			<ymin>47</ymin>
+			<xmax>2517</xmax>
+			<ymax>1747</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>d80t0ko4_coronavirus-doctor-generic-afp-650_625x300_17_April_20.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\d80t0ko4_coronavirus-doctor-generic-afp-650_625x300_17_April_20.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>88</ymin>
+			<xmax>323</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>141</ymin>
+			<xmax>650</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

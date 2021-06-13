@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>3M_N95_Particulate_Respirator.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\3M_N95_Particulate_Respirator.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>4</ymin>
+			<xmax>589</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

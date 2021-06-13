@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>PLE2006_WEB_IMG_PPE_N95Mask.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\PLE2006_WEB_IMG_PPE_N95Mask.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>2</ymin>
+			<xmax>490</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

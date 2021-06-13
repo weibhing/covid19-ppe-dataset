@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>494179ef4f8d9148ad3f3dcbb01c2088.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\494179ef4f8d9148ad3f3dcbb01c2088.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>487</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>3</ymin>
+			<xmax>331</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>36</ymin>
+			<xmax>262</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

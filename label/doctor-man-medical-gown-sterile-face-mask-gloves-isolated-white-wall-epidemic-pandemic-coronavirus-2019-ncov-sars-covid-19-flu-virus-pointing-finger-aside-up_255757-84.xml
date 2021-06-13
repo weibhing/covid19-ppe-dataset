@@ -1,0 +1,50 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>doctor-man-medical-gown-sterile-face-mask-gloves-isolated-white-wall-epidemic-pandemic-coronavirus-2019-ncov-sars-covid-19-flu-virus-pointing-finger-aside-up_255757-84.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\doctor-man-medical-gown-sterile-face-mask-gloves-isolated-white-wall-epidemic-pandemic-coronavirus-2019-ncov-sars-covid-19-flu-virus-pointing-finger-aside-up_255757-84.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>93</ymin>
+			<xmax>400</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>135</ymin>
+			<xmax>538</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>128</ymin>
+			<xmax>273</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

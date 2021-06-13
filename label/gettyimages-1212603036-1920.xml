@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>gettyimages-1212603036-1920.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\gettyimages-1212603036-1920.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>11</ymin>
+			<xmax>812</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>180</ymin>
+			<xmax>705</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

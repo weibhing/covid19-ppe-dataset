@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>portrait-female-doctor-medical-mask-showing-hands-to-camera-wearing-blue-nitrile-gloves-over-white-background-183145753.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\portrait-female-doctor-medical-mask-showing-hands-to-camera-wearing-blue-nitrile-gloves-over-white-background-183145753.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>5</ymin>
+			<xmax>438</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>180</ymin>
+			<xmax>462</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>young-woman-wearing-medical-face-mask-wrong-leaving-nose-uncovered-young-woman-wearing-medical-face-mask-wrong-leaving-nose-201511045.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\young-woman-wearing-medical-face-mask-wrong-leaving-nose-uncovered-young-woman-wearing-medical-face-mask-wrong-leaving-nose-201511045.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymin>251</ymin>
+			<xmax>891</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

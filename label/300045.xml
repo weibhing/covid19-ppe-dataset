@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>300045.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\300045.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>76</ymin>
+			<xmax>361</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

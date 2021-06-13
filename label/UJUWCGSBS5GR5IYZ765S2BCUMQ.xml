@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>UJUWCGSBS5GR5IYZ765S2BCUMQ.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\UJUWCGSBS5GR5IYZ765S2BCUMQ.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>2</ymin>
+			<xmax>344</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

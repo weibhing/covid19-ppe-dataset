@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>How to properly wear personal protective equipment for airborne contaminants 273.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\How to properly wear personal protective equipment for airborne contaminants 273.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>500</ymin>
+			<xmax>1191</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>251</ymin>
+			<xmax>810</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

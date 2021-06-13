@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>stock-photo-a-man-in-a-medical-face-mask-wrong-wearing-of-a-protective-medical-face-mask-wrong-virus-1683255184.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\stock-photo-a-man-in-a-medical-face-mask-wrong-wearing-of-a-protective-medical-face-mask-wrong-virus-1683255184.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>445</ymin>
+			<xmax>824</xmax>
+			<ymax>1196</ymax>
+		</bndbox>
+	</object>
+</annotation>

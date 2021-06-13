@@ -1,0 +1,50 @@
+<annotation>
+	<folder>unlabeled PPE</folder>
+	<filename>244ba5f7a9dac68a259a609ba49429df.jpg</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\unlabeled PPE\244ba5f7a9dac68a259a609ba49429df.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>19</ymin>
+			<xmax>184</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>18</ymin>
+			<xmax>336</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>42</ymin>
+			<xmax>123</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

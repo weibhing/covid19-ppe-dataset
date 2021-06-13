@@ -1,0 +1,38 @@
+<annotation>
+	<folder>unlabeled PPE</folder>
+	<filename>Protective-Chemical-and-Biological-Suit-PPE-Coverall.jpg</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\unlabeled PPE\Protective-Chemical-and-Biological-Suit-PPE-Coverall.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>714</width>
+		<height>723</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>29</ymin>
+			<xmax>300</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>12</ymin>
+			<xmax>616</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

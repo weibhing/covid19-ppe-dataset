@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>disposable-protective-apparel-3.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\disposable-protective-apparel-3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>23</ymin>
+			<xmax>334</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>52</ymin>
+			<xmax>272</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

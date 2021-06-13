@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>woman-wearing-face-mask-below-nose-wrong-way-wearing-mask-up-mask-concept-incorrect-wrong-way-wearing-face-mask-206619973.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\woman-wearing-face-mask-below-nose-wrong-way-wearing-mask-up-mask-concept-incorrect-wrong-way-wearing-face-mask-206619973.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>132</ymin>
+			<xmax>476</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

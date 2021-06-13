@@ -1,0 +1,38 @@
+<annotation>
+	<folder>png</folder>
+	<filename>ppe.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\new batch\png\ppe.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>686</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>151</ymin>
+			<xmax>353</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>131</ymin>
+			<xmax>556</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

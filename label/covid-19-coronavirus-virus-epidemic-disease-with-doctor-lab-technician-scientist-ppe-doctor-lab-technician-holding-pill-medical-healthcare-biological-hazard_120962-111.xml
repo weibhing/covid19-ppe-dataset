@@ -1,0 +1,50 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>covid-19-coronavirus-virus-epidemic-disease-with-doctor-lab-technician-scientist-ppe-doctor-lab-technician-holding-pill-medical-healthcare-biological-hazard_120962-111.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\covid-19-coronavirus-virus-epidemic-disease-with-doctor-lab-technician-scientist-ppe-doctor-lab-technician-holding-pill-medical-healthcare-biological-hazard_120962-111.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>32</ymin>
+			<xmax>305</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>92</ymin>
+			<xmax>491</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>26</ymin>
+			<xmax>584</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

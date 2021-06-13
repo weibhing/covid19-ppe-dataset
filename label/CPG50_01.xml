@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>CPG50_01.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\CPG50_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2374</width>
+		<height>1656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>226</ymin>
+			<xmax>2172</xmax>
+			<ymax>1505</ymax>
+		</bndbox>
+	</object>
+</annotation>

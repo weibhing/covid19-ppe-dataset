@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>istockphoto-1250449628-612x612.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\istockphoto-1250449628-612x612.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>121</ymin>
+			<xmax>488</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

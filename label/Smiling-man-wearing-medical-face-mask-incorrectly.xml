@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>Smiling-man-wearing-medical-face-mask-incorrectly.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\Smiling-man-wearing-medical-face-mask-incorrectly.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>354</ymin>
+			<xmax>1147</xmax>
+			<ymax>873</ymax>
+		</bndbox>
+	</object>
+</annotation>

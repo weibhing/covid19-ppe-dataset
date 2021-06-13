@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>wearing-mask-incorrectly-close-up-portrait-woman-wearing-santa-claus-hat-medical-mask-with-emotion-against-background-christmas-tree-coronavirus-pandemic_7280-4485.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\wearing-mask-incorrectly-close-up-portrait-woman-wearing-santa-claus-hat-medical-mask-with-emotion-against-background-christmas-tree-coronavirus-pandemic_7280-4485.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>102</ymin>
+			<xmax>399</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

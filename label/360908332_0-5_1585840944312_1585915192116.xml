@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>360908332_0-5_1585840944312_1585915192116.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\360908332_0-5_1585840944312_1585915192116.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>13</ymin>
+			<xmax>358</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

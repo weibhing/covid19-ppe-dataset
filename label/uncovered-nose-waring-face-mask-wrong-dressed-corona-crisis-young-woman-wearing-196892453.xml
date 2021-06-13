@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>uncovered-nose-waring-face-mask-wrong-dressed-corona-crisis-young-woman-wearing-196892453.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\26-5 batch\png\uncovered-nose-waring-face-mask-wrong-dressed-corona-crisis-young-woman-wearing-196892453.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>232</ymin>
+			<xmax>491</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

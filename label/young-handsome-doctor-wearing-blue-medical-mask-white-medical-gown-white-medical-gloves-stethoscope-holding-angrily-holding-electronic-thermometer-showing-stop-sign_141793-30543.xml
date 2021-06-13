@@ -1,0 +1,50 @@
+<annotation>
+	<folder>5-6 batch gloves</folder>
+	<filename>young-handsome-doctor-wearing-blue-medical-mask-white-medical-gown-white-medical-gloves-stethoscope-holding-angrily-holding-electronic-thermometer-showing-stop-sign_141793-30543.png</filename>
+	<path>C:\Users\bbhin\Desktop\PPE dataset\5-6 batch gloves\young-handsome-doctor-wearing-blue-medical-mask-white-medical-gown-white-medical-gloves-stethoscope-holding-angrily-holding-electronic-thermometer-showing-stop-sign_141793-30543.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>102</ymin>
+			<xmax>360</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>121</ymin>
+			<xmax>255</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>195</ymin>
+			<xmax>437</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

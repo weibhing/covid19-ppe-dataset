@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>RYV7OQE3MNHCTDBSVHJSEV3PBQ.png</filename>
+	<path>G:\My Drive\Dataset-PPE\image\RYV7OQE3MNHCTDBSVHJSEV3PBQ.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1578</xmin>
+			<ymin>1136</ymin>
+			<xmax>2854</xmax>
+			<ymax>2484</ymax>
+		</bndbox>
+	</object>
+</annotation>
