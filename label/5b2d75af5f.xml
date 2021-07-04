@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined_2</folder>
+	<filename>5b2d75af5f.png</filename>
+	<path>C:\Users\bbhin\Desktop\combined_2\5b2d75af5f.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>134</ymin>
+			<xmax>769</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>
