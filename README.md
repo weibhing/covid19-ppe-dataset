@@ -2,7 +2,7 @@
 PPE plays a critical role in protecting individuals against any highly-infectious diseases, which is one of the precautions available for COVID-19 in the absence of proper immunization. Thus, in an effort to contribute to our COVID-19 frontliners and the community, I have established a labelled PPE dataset which is the fundamental in training of any deep learning object detection model. The application of the object detection model trained using this dataset is vast, including usage in healthcare institutions and high-volume premises such as malls to ensure PPE compliance. 
 
 ## About this dataset
-This dataset contains 900 images belonging to 7 different classes, including face mask (with mask, without mask, and mask worn incorrectly), face shield, coverall, gloves and goggles. The images are mainly collected from Google Image Search and some images are extracted from Youtube videos (donning/doffing PPE). The images are labelled manually using LabelImg tool and saved in PASCAL VOC format. 
+This dataset contains 1300 images belonging to 7 different classes, including face mask (with mask, without mask, and mask worn incorrectly), face shield, coverall, gloves and goggles. The images are mainly collected from Google Image Search and some images are extracted from Youtube videos (donning/doffing PPE). The images are labelled manually using LabelImg tool and saved in PASCAL VOC format. 
 ![Imgur](https://i.imgur.com/6HFG87u.png)
 
 ## Acknowledgement
