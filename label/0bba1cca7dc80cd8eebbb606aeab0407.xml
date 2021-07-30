@@ -1,7 +1,7 @@
 <annotation>
 	<folder>image</folder>
 	<filename>0bba1cca7dc80cd8eebbb606aeab0407.png</filename>
-	<path>G:\My Drive\Dataset-PPE\image\0bba1cca7dc80cd8eebbb606aeab0407.png</path>
+	<path>C:\Users\bbhin\Documents\GitHub\ppe-dataset\image\0bba1cca7dc80cd8eebbb606aeab0407.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
+			<xmin>178</xmin>
 			<ymin>150</ymin>
-			<xmax>387</xmax>
+			<xmax>396</xmax>
 			<ymax>485</ymax>
 		</bndbox>
 	</object>
@@ -30,8 +30,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>83</xmin>
-			<ymin>131</ymin>
-			<xmax>192</xmax>
+			<ymin>133</ymin>
+			<xmax>231</xmax>
 			<ymax>485</ymax>
 		</bndbox>
 	</object>
@@ -41,9 +41,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>410</xmin>
-			<ymin>166</ymin>
-			<xmax>631</xmax>
+			<xmin>385</xmin>
+			<ymin>164</ymin>
+			<xmax>647</xmax>
 			<ymax>485</ymax>
 		</bndbox>
 	</object>
@@ -117,6 +117,30 @@
 			<ymin>71</ymin>
 			<xmax>625</xmax>
 			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Face_Shield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>69</ymin>
+			<xmax>552</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Face_Shield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>55</ymin>
+			<xmax>641</xmax>
+			<ymax>164</ymax>
 		</bndbox>
 	</object>
 </annotation>

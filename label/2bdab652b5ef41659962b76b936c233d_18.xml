@@ -1,7 +1,7 @@
 <annotation>
 	<folder>image</folder>
 	<filename>2bdab652b5ef41659962b76b936c233d_18.png</filename>
-	<path>G:\My Drive\Dataset-PPE\image\2bdab652b5ef41659962b76b936c233d_18.png</path>
+	<path>C:\Users\bbhin\Documents\GitHub\ppe-dataset\image\2bdab652b5ef41659962b76b936c233d_18.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Coverall</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>85</xmin>
+			<xmin>70</xmin>
 			<ymin>83</ymin>
-			<xmax>244</xmax>
-			<ymax>445</ymax>
+			<xmax>278</xmax>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -38,13 +38,13 @@
 	<object>
 		<name>Coverall</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>490</xmin>
-			<ymin>149</ymin>
-			<xmax>690</xmax>
-			<ymax>491</ymax>
+			<xmin>474</xmin>
+			<ymin>145</ymin>
+			<xmax>704</xmax>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>

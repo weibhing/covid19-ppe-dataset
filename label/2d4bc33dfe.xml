@@ -1,7 +1,7 @@
 <annotation>
-	<folder>combined_2</folder>
-	<filename>2d4bc33dfe.jpg</filename>
-	<path>C:\Users\bbhin\Desktop\combined_2\2d4bc33dfe.jpg</path>
+	<folder>image</folder>
+	<filename>2d4bc33dfe.png</filename>
+	<path>C:\Users\bbhin\Documents\GitHub\ppe-dataset\image\2d4bc33dfe.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>51</ymin>
 			<xmax>379</xmax>
 			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>76</ymin>
+			<xmax>206</xmax>
+			<ymax>332</ymax>
 		</bndbox>
 	</object>
 </annotation>
