@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new compilation</folder>
+	<filename>2993070a56.png</filename>
+	<path>C:\Users\bbhin\Desktop\new compilation\2993070a56.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2839</width>
+		<height>3914</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1175</xmin>
+			<ymin>365</ymin>
+			<xmax>1483</xmax>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Face_Shield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1092</xmin>
+			<ymin>261</ymin>
+			<xmax>1571</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coverall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>28</ymin>
+			<xmax>2254</xmax>
+			<ymax>3878</ymax>
+		</bndbox>
+	</object>
+</annotation>
